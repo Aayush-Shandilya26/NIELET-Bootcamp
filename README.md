@@ -1,1 +1,1 @@
-# AI-Bootcamp-NIELIT-2025
+# NIELET-Bootcamp
